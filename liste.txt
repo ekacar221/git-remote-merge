@@ -1,0 +1,4 @@
+Açık kaynak kodlu ve tamamen ücretsizdir.
+Makro kaydetme ve çalıştırma ile tekrar eden işlemleri otomatikleştirebilirsin.
+ Sütun seçme modu ile dikey metin seçimi yapılabilir.
+Dahili HEX editör ile ikili (binary) dosyalar düzenlenebilir.
