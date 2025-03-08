@@ -1,5 +1,5 @@
-Açık kaynak kodlu ve tamamen ücretsizdir.
+Sütun seçme modu ile dikey metin seçimi yapılabilir.
 Makro kaydetme ve çalıştırma ile tekrar eden işlemleri otomatikleştirebilirsin.
- Sütun seçme modu ile dikey metin seçimi yapılabilir.
+Açık kaynak kodlu ve tamamen ücretsizdir.
 Dahili HEX editör ile ikili (binary) dosyalar düzenlenebilir.
 Karanlık mod  desteği vardır 
